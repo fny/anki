@@ -1,2 +1,3 @@
-# anki
-All things Anki
+# Anki 🧠
+
+All things Anki.
